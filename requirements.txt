@@ -1,4 +1,0 @@
-glance_store
-nova
-oslo_log
-oslo_config
